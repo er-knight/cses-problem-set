@@ -1,3 +1,5 @@
+# https://cses.fi/problemset/task/1072
+
 #   K * *   * * K   K *   * K
 #   * * K   K * *   * *   * *
 #                   * K   * *

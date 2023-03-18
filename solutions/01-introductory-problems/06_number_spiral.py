@@ -1,3 +1,5 @@
+# https://cses.fi/problemset/task/1071
+
 t = int(input())
 for i in range(t):
     y, x = [int(x) for x in input().split()]
